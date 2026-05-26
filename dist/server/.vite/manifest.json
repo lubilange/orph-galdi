@@ -1,0 +1,151 @@
+{
+  "C:/Users/lubil/Downloads/galdi-orphelinat/src/styles.css": {
+    "file": "assets/styles-DouHLQ_8.css",
+    "src": "C:/Users/lubil/Downloads/galdi-orphelinat/src/styles.css"
+  },
+  "_router-h2RkkF8q.js": {
+    "file": "assets/router-h2RkkF8q.js",
+    "name": "router",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-C7uA6U9j.js"
+    ],
+    "dynamicImports": [
+      "src/routes/index.tsx?tsr-split=component"
+    ],
+    "assets": [
+      "assets/styles-DouHLQ_8.css"
+    ]
+  },
+  "_server-C7uA6U9j.js": {
+    "file": "assets/server-C7uA6U9j.js",
+    "name": "server",
+    "isDynamicEntry": true,
+    "dynamicImports": [
+      "tanstack-start-manifest:v",
+      "_router-h2RkkF8q.js",
+      "src/start.ts",
+      "node_modules/@tanstack/start-server-core/dist/esm/empty-plugin-adapters.js"
+    ]
+  },
+  "_worker-entry-B9YZw4DB.js": {
+    "file": "assets/worker-entry-B9YZw4DB.js",
+    "name": "worker-entry",
+    "dynamicImports": [
+      "_server-C7uA6U9j.js"
+    ]
+  },
+  "node_modules/@tanstack/start-server-core/dist/esm/empty-plugin-adapters.js": {
+    "file": "assets/empty-plugin-adapters-BFgPZ6_d.js",
+    "name": "empty-plugin-adapters",
+    "src": "node_modules/@tanstack/start-server-core/dist/esm/empty-plugin-adapters.js",
+    "isDynamicEntry": true
+  },
+  "src/assets/about.jpg": {
+    "file": "assets/about-BF4rYo5F.jpg",
+    "src": "src/assets/about.jpg"
+  },
+  "src/assets/activities.jpg": {
+    "file": "assets/activities-DsArz4W6.jpg",
+    "src": "src/assets/activities.jpg"
+  },
+  "src/assets/education.jpg": {
+    "file": "assets/education-B1WNTCxj.jpg",
+    "src": "src/assets/education.jpg"
+  },
+  "src/assets/food.jpg": {
+    "file": "assets/food-B0zZjWrO.jpg",
+    "src": "src/assets/food.jpg"
+  },
+  "src/assets/galdilogo.png": {
+    "file": "assets/galdilogo-vjeccDcM.png",
+    "src": "src/assets/galdilogo.png"
+  },
+  "src/assets/gallery1.jpg": {
+    "file": "assets/gallery1-D_PqxLmN.jpg",
+    "src": "src/assets/gallery1.jpg"
+  },
+  "src/assets/gallery2.jpg": {
+    "file": "assets/gallery2-aFW03xMi.jpg",
+    "src": "src/assets/gallery2.jpg"
+  },
+  "src/assets/gallery3.jpg": {
+    "file": "assets/gallery3-5XTv_6Xk.jpg",
+    "src": "src/assets/gallery3.jpg"
+  },
+  "src/assets/gallery4.jpg": {
+    "file": "assets/gallery4-CUauK1cl.jpg",
+    "src": "src/assets/gallery4.jpg"
+  },
+  "src/assets/gallery5.jpg": {
+    "file": "assets/gallery5-BdRpvbZ_.jpg",
+    "src": "src/assets/gallery5.jpg"
+  },
+  "src/assets/gallery6.jpg": {
+    "file": "assets/gallery6-DVqilOsW.jpg",
+    "src": "src/assets/gallery6.jpg"
+  },
+  "src/assets/health.jpg": {
+    "file": "assets/health-D3rme2Nu.jpg",
+    "src": "src/assets/health.jpg"
+  },
+  "src/assets/hero.jpg": {
+    "file": "assets/hero-jA7OXly4.jpg",
+    "src": "src/assets/hero.jpg"
+  },
+  "src/assets/housing.jpg": {
+    "file": "assets/housing-CP_eDe2S.jpg",
+    "src": "src/assets/housing.jpg"
+  },
+  "src/routes/index.tsx?tsr-split=component": {
+    "file": "assets/index-DpnmseHH.js",
+    "name": "index",
+    "src": "src/routes/index.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-C7uA6U9j.js",
+      "_router-h2RkkF8q.js"
+    ],
+    "assets": [
+      "assets/galdilogo-vjeccDcM.png",
+      "assets/hero-jA7OXly4.jpg",
+      "assets/about-BF4rYo5F.jpg",
+      "assets/education-B1WNTCxj.jpg",
+      "assets/health-D3rme2Nu.jpg",
+      "assets/food-B0zZjWrO.jpg",
+      "assets/housing-CP_eDe2S.jpg",
+      "assets/activities-DsArz4W6.jpg",
+      "assets/gallery1-D_PqxLmN.jpg",
+      "assets/gallery2-aFW03xMi.jpg",
+      "assets/gallery3-5XTv_6Xk.jpg",
+      "assets/gallery4-CUauK1cl.jpg",
+      "assets/gallery5-BdRpvbZ_.jpg",
+      "assets/gallery6-DVqilOsW.jpg"
+    ]
+  },
+  "src/start.ts": {
+    "file": "assets/start-DuUdMpx7.js",
+    "name": "start",
+    "src": "src/start.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-C7uA6U9j.js",
+      "_worker-entry-B9YZw4DB.js"
+    ]
+  },
+  "tanstack-start-manifest:v": {
+    "file": "assets/_tanstack-start-manifest_v-rpCtk_se.js",
+    "name": "_tanstack-start-manifest_v",
+    "src": "tanstack-start-manifest:v",
+    "isDynamicEntry": true
+  },
+  "virtual:cloudflare/worker-entry": {
+    "file": "index.js",
+    "name": "index",
+    "src": "virtual:cloudflare/worker-entry",
+    "isEntry": true,
+    "imports": [
+      "_worker-entry-B9YZw4DB.js"
+    ]
+  }
+}
